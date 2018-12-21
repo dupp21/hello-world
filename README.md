@@ -1,7 +1,9 @@
-# hello-world
+# To Do List Example
 
-Test Deit!
+Atu Halo ou Buat nebe ita atu halo agora 
 
-Hau nia naran kompletu Domingos Bento Pereira
-Biasa ema bolu Dupp ou dukai
-Gosta aprende programador mais maibe araska los, maibe koko nafatin.
+To do list 
+Atu halo buat ida 
+Hanesan atu halo - estuda java script
+Hanesan atu halo - estuda HTML5
+Hanesan atu halo - estuda CSS3
